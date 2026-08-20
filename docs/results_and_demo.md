@@ -24,7 +24,7 @@ This structured output made it possible to pass the model predictions between di
 
 The final prototype brings the analysis together through a Streamlit dashboard, allowing the available risk signals, behavioral context, and supporting evidence to be reviewed in one place.
 
-[PASTE FINAL DASHBOARD IMAGE HERE]
+![PASTE FINAL DASHBOARD IMAGE HERE](images/dashboard.png)
 
 ---
 
