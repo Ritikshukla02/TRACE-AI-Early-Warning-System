@@ -28,7 +28,7 @@ The final prototype brings the analysis together through a Streamlit dashboard, 
 
 ---
 
-## 🎥 See TRACE in Action
+## See TRACE in Action
 
 The complete prototype and workflow can be seen in the project demonstration:
 
