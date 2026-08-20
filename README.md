@@ -27,7 +27,7 @@ TRACE combines three main components:
 - **Gemma** : analyzes sender history, cross-account activity, and behavioral escalation
 - **Streamlit Dashboard** : presents the analysis and recommendations to human analysts
 
-!(images/system_workflow.png)
+![TRACE System Workflow](images/system_workflow.png)
 
 ---
 
