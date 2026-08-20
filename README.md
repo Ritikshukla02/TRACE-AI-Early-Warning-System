@@ -23,9 +23,9 @@ The system provides evidence-based recommendations to human analysts rather than
 
 TRACE combines three main components:
 
-- **BERTweet** — analyzes comments across eight risk categories
-- **Gemma** — analyzes sender history, cross-account activity, and behavioral escalation
-- **Streamlit Dashboard** — presents the analysis and recommendations to human analysts
+- **BERTweet** : analyzes comments across eight risk categories
+- **Gemma** : analyzes sender history, cross-account activity, and behavioral escalation
+- **Streamlit Dashboard** : presents the analysis and recommendations to human analysts
 
 ![TRACE System Workflow](images/system_workflow.png)
 
