@@ -8,7 +8,7 @@ The overall flow is:
 
 **Comments → BERTweet → Risk Scores → Behavioral Analysis with Gemma → Streamlit Dashboard → Human Review**
 
-![images/system_workflow.png]
+![System Worflow](https://example.com)
 
 ---
 
