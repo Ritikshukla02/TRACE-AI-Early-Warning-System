@@ -50,7 +50,7 @@ The BERTweet component provided comment-level risk information for the rest of t
 
 ## Project Demo
 
-[▶️ Watch the TRACE Demo on YouTube](YOUR_YOUTUBE_LINK_HERE)
+[▶️ Watch the TRACE Demo on YouTube](https://youtu.be/SncKkpuTF6M?si=P0fCzxzNv-TJVoNj)
 
 ---
 
