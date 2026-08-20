@@ -14,7 +14,7 @@ The BERTweet component successfully generated structured risk predictions across
 
 For every analyzed input, the BERTweet component generated category-level probability scores along with an overall risk score.
 
-[PASTE BERT OUTPUT IMAGE HERE]
+![PASTE BERT OUTPUT IMAGE HERE](images/bert_output_example.png)
 
 This structured output made it possible to pass the model predictions between different components of the system without coupling them directly together.
 
