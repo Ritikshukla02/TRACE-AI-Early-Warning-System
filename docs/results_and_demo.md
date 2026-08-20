@@ -32,7 +32,7 @@ The final prototype brings the analysis together through a Streamlit dashboard, 
 
 The complete prototype and workflow can be seen in the project demonstration:
 
-**[▶️ Watch the TRACE Demo on YouTube](YOUR_YOUTUBE_LINK_HERE)**
+**[▶️ Watch the TRACE Demo on YouTube](https://youtu.be/SncKkpuTF6M?si=P0fCzxzNv-TJVoNj)**
 
 The demo shows how TRACE moves from analyzing online interactions to presenting the available evidence for human review.
 
